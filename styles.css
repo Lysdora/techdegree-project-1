@@ -215,7 +215,7 @@ ul.skills {
 .skills li {
   border-radius: 6px;
   display: inline-block;
-  background: pink;
+  background: #9f5361;
   color: white;
   padding: 5px 10px;
   margin: 2px;
@@ -230,7 +230,7 @@ ul.skills {
 }
 
 .skills li:nth-child(odd):hover {
-  background: pink;
+  background: #9f5361;
 }
 
 footer {
