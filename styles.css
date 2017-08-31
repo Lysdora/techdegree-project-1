@@ -222,7 +222,7 @@ ul.skills {
 }
 
 .skills li:hover {
-  background: tomato;
+  background: pink;
 }
 
 .skills li:nth-child(odd) {
